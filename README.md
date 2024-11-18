@@ -24,6 +24,6 @@
 9.Implimentation of FIR Filters
 10.Familiarization of DSP Hardware
 11.Generation of Sine Wave using DSP Kit
-Linear onvolution using DSP Kit
+12.Linear onvolution using DSP Kit
 
 
