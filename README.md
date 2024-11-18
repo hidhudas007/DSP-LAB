@@ -1,5 +1,7 @@
 ## DSP-LAB
-
+Record of Experiments at Digital Signal Processing Laboratory
+## Platform Used 
+Matlab 
 ## Table Of Content 
 1.Simulation of Basic Test Signals
 2.Verification of Sampling Theorem
